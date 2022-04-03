@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluationSystem", "EvaluationSystem\EvaluationSystem.csproj", "{00F5D5CD-6D66-4ADE-AAFF-AA1206385A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRISA", "..\IDNS\IRISA\IRISA.csproj", "{CBE78421-DA58-46A6-B306-08B755935B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRISA.Web.Mvc", "..\IDNS\IRISA.Web.Mvc\IRISA.Web.Mvc.csproj", "{C4B5D8FF-4DAB-43A7-B576-B89CA6B3A7B3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://srv2253:8080/tfs/ksc%20collection2013
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EvaluationSystem\\EvaluationSystem.csproj
+		SccProjectName1 = EvaluationSystem
+		SccLocalPath1 = EvaluationSystem
+		SccProjectUniqueName2 = ..\\IDNS\\IRISA\\IRISA.csproj
+		SccProjectName2 = ../IDNS/IRISA
+		SccLocalPath2 = ..\\IDNS\\IRISA
+		SccProjectUniqueName3 = ..\\IDNS\\IRISA.Web.Mvc\\IRISA.Web.Mvc.csproj
+		SccProjectName3 = ../IDNS/IRISA.Web.Mvc
+		SccLocalPath3 = ..\\IDNS\\IRISA.Web.Mvc
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F5D5CD-6D66-4ADE-AAFF-AA1206385A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F5D5CD-6D66-4ADE-AAFF-AA1206385A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F5D5CD-6D66-4ADE-AAFF-AA1206385A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F5D5CD-6D66-4ADE-AAFF-AA1206385A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE78421-DA58-46A6-B306-08B755935B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE78421-DA58-46A6-B306-08B755935B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE78421-DA58-46A6-B306-08B755935B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE78421-DA58-46A6-B306-08B755935B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B5D8FF-4DAB-43A7-B576-B89CA6B3A7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B5D8FF-4DAB-43A7-B576-B89CA6B3A7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B5D8FF-4DAB-43A7-B576-B89CA6B3A7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B5D8FF-4DAB-43A7-B576-B89CA6B3A7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
